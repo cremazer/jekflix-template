@@ -20,6 +20,8 @@ instagram_username: kyuseoshim
 linkedin_username: cremazer
 medium_username: 
 
+encoding: UTF-8
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
