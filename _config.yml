@@ -1,29 +1,31 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: Cremazer's Github Blog
+email: cremazer@gmail.com
+description: This blog is a blog about the development of Cremazer.
 baseurl:
-url: "https://www.rossener.com" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+url: "https://cremazer.github.io/" # the base hostname & protocol for your site
+google_analytics: "UA-42914037-3"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Cremazer
+user_description: South Korea. Web developer.(from 2009)
+disqus_username: kyuseoshim
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: cremazer
+facebook_username: cremazer
+twitter_username: cremazer
+instagram_username: kyuseoshim
+linkedin_username: cremazer
+medium_username: 
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
+
+disqus-shortname: kyuseoshim
 
 # Plugins
 gems:
