@@ -1,7 +1,8 @@
 ---
 layout: minimal
 ---
-<ul id="post-list">
+<div class="tags">
+  <ul id="post-list">
     {% for post in site.categories.life %}
         {% if post.title != null %}
             {% if group == null or group == post.group %}
@@ -15,4 +16,5 @@ layout: minimal
             {% endif %}
         {% endif %}
     {% endfor %}
-</ul>
+  </ul>
+</div>
