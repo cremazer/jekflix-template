@@ -3,7 +3,7 @@ title: Cremazer's Github Blog
 email: cremazer@gmail.com
 description: This blog is a blog about the development of Cremazer.
 baseurl:
-url: "https://cremazer.github.io/" # the base hostname & protocol for your site
+url: "https://cremazer.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-42914037-3"
 
 # User Settings
