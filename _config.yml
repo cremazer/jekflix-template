@@ -21,6 +21,7 @@ linkedin_username: cremazer
 medium_username: 
 
 encoding: UTF-8
+paginate: 10
 
 # Build settings
 markdown: kramdown
