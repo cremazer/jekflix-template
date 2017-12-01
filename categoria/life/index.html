@@ -2,6 +2,8 @@
 layout: minimal
 ---
 <div class="tags">
+</div>
+  <span class="tag-title" id="life">LIFE</span>
   <ul id="post-list">
     {% for post in site.categories.life %}
         {% if post.title != null %}
@@ -10,11 +12,10 @@ layout: minimal
 							<a href="{{ site.url }}{{ post.url }}">{{ post.title }}
 								<span class="entry-date">
 							  	<time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%m/%d/%Y" }}</time>
-								</span>
 							</a>
 						</li>
             {% endif %}
         {% endif %}
     {% endfor %}
   </ul>
-</div>
+
