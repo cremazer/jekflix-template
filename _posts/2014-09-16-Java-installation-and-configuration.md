@@ -13,6 +13,10 @@ introduction: 자바(Java)를 다운로드하여 설치하고, 사용하기 위�
 ---
 
 2017.12.01 updated.
+이미지 변경
+- Windows7 -> Windows10
+- Java7 -> Java9
+
 
 Java 는 Sun Microsystems에서 제공하는 개발언어였으나, 지금은 Oracle에서 제공하고 있습니다.
 
@@ -23,7 +27,9 @@ Java 는 Sun Microsystems에서 제공하는 개발언어였으나, 지금은 Or
 3. Java 환결설정하기
 4. Java 설치 테스트
 
-##Java 다운로드
+-----
+
+## Java 다운로드
 
 Java를 다운로드하기 위해 오라클 홈페이지로 접속합니다.
 - [ORACLE 홈페이지](http://www.oracle.com/index.html)
@@ -51,7 +57,7 @@ Java SE Downloads 페이지에서 화면중앙에 보이는 `Java 아이콘`을 
 ![그림5. 20171201_005_javaSE_JDK_download_accept](/assets/img/java/20140916/20171201_005_javaSE_JDK_download_accept.png)
 
 
-##Java 설치하기
+## Java 설치하기
 
 다운로드한 **Java 설치파일을 실행**합니다.
 
@@ -78,7 +84,7 @@ Java 설치가 완료되면 [Next Steps]를 클릭하여 더 많은 정보를 �
 
 ![그림11. 20171201_011_javaSE_JDK_install_6](/assets/img/java/20140916/20171201_011_javaSE_JDK_install_6.png)
 
-##Java 환결설정하기
+## Java 환결설정하기
 
 Java를 어느 경로에서든 실행하기 위해서는 Path에 등록을 해줘야 합니다.
 Path를 설정하려면 윈도우의 환경 변수 설정을 해야합니다.
@@ -135,7 +141,7 @@ Path 에 Java 설치경로가 추가되어있음을 확인하고 `[확인]`을 �
 
 
 
-##Java 설치 테스트
+## Java 설치 테스트
 
 이제 Java가 제대로 설치되었는지 테스트해 봅시다.
 
