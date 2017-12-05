@@ -19,16 +19,16 @@ Software Developer (Web)
 for Software Developer (Web)
 
 - Business analysis and rapid development environment adaptability
- - Various development environment adaptability experienced in many projects.
- - Analytical skills of business process with the credentials of the information processing article.
- - Understand the ERD, analyzing the flow of data, improve processing business.
+  - Various development environment adaptability experienced in many projects.
+  - Analytical skills of business process with the credentials of the information processing article.
+  - Understand the ERD, analyzing the flow of data, improve processing business.
 
 - Quality improvement capacity
- - Improve the errors and bugs through scrupulous testing.
+  - Improve the errors and bugs through scrupulous testing.
 
 - Document processing capability
- - History management about the schedule and content of the business.
- - Document creation capabilities such as user guides and work proceeding.
+  - History management about the schedule and content of the business.
+  - Document creation capabilities such as user guides and work proceeding.
 
 # Work Experience
 
@@ -76,17 +76,17 @@ Development web application for FEP monitoring system. Development window java a
 ### Software/Systems Skills
 
 - Programming language
- - Java, Jsp, FreeMarker, javascript
+  - Java, Jsp, FreeMarker, javascript
 - Open Source
- - jQuery, jqGrid
+  - jQuery, jqGrid
 - Framework
- - Spring, X2
+  - Spring, X2
 - Database
- - Oracle, MS-SQL, MySql
+  - Oracle, MS-SQL, MySql
 - ORM
- - MyBatis
+  - MyBatis
 - TOOL
- - Eclipse, Toad, SQL Developer, MS Office,, etc.
+  - Eclipse, Toad, SQL Developer, MS Office,, etc.
 
 # Education
 
