@@ -17,6 +17,7 @@ introduction: 자바(Java)를 다운로드하여 설치하고, 사용하기 위�
 - Windows7 -> Windows10
 - Java7 -> Java9
 
+-----
 
 Java 는 Sun Microsystems에서 제공하는 개발언어였으나, 지금은 Oracle에서 제공하고 있습니다.
 
@@ -27,7 +28,6 @@ Java 는 Sun Microsystems에서 제공하는 개발언어였으나, 지금은 Or
 3. Java 환결설정하기
 4. Java 설치 테스트
 
------
 
 ## Java 다운로드
 
