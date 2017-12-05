@@ -66,9 +66,9 @@ Edit Plus, Ultra Edit, Net Beans 등등 다양한 개발 툴이 있지만, 개�
 
 다운로드 된 이클립스 설치파일을 실행하면, 아래와 같이 사용자에 맞게 설치할 수 있는 항목이 나타납니다.
 
-![그림4. 20171205_004_Eclipse_install_1](/assets/img/java/20140916/20171205_004_Eclipse_install_1.png)
-
 스크롤바를 내리면 여러가지 설치 항목들이 보이는데, 여기서는 JAVA를 공부하기 위한 용도로 설치할 예정이므로, 가장 위에 있는 **"Eclipse IDE for Java Developers"**를 선택합니다.
+
+![그림4. 20171205_004_Eclipse_install_1](/assets/img/java/20140916/20171205_004_Eclipse_install_1.png)
 
 그 다음 설치 폴더(Installation Folder) 경로를 설정하고, 아래 주황색 `INSTALL` 버튼을 클릭합니다.
 
@@ -80,14 +80,14 @@ Edit Plus, Ultra Edit, Net Beans 등등 다양한 개발 툴이 있지만, 개�
 
 ![그림6. 20171205_006_Eclipse_install_3](/assets/img/java/20140916/20171205_006_Eclipse_install_3.png)
 
-![그림7. 20171205_007_Eclipse_install_4](/assets/img/java/20140916/20171205_007_Eclipse_install_4.png)
-
 설치하는데 시간이 좀 걸리네요...(약 1~2분)
 
-![그림8. 20171205_008_Eclipse_install_5](/assets/img/java/20140916/20171205_008_Eclipse_install_5.png)
+![그림7. 20171205_007_Eclipse_install_4](/assets/img/java/20140916/20171205_007_Eclipse_install_4.png)
 
 여기까지 실행되었다면 이클립스 설치는 완료되었습니다.
 이제 `LAUNCH` 버튼을 클릭해서 이클립스를 실행합니다.
+
+![그림8. 20171205_008_Eclipse_install_5](/assets/img/java/20140916/20171205_008_Eclipse_install_5.png)
 
 
 ## 이클립스 실행하기
@@ -189,7 +189,7 @@ New Java Class 윈도우가 나타나는데, 여기서 클래스에 관련된 �
 
 이제 **컨트롤+S(Ctrl+S)**나 `저장`버튼을 눌러서 코드를 저장합니다. 저장이 완료되면 Editor창에 열려 있는 HelloWorld.java 의 제목 부분 앞에 (*) 표시가 있다가 없어집니다.
 
-> (*) 표시가 있으면 수정된 파일을 의미하며, 수정된 내용을 저장하였거나 수정하지 않은 상태이면 (*)표시가 보이지 않습니다.
+> (*****) 표시가 있으면 수정된 파일을 의미하며, 수정된 내용을 저장하였거나 수정하지 않은 상태이면 (*) 표시가 보이지 않습니다.
 
 ![그림23. 20171205_023_Hello-World_11](/assets/img/java/20140916/20171205_023_Hello-World_11.png)
 
