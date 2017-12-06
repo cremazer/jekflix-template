@@ -8,7 +8,7 @@ category: 'java'
 tags:
 - java
 - tutorial
-twitter_text: Hello World 실행하기(Java Hello World!).
+twitter_text: [JAVA] Hello World 실행하기(Java Hello World!).
 introduction: 자바(Java) 프로그래밍으로 Console, Edit Plus, Eclipse 도구를 사용해 Hello World를 실행하는 방법을 설명합니다.
 ---
 
