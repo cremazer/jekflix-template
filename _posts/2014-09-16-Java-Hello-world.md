@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[JAVA] Hello World 실행하기(Java Hello World!)"
+title: "Hello World 실행하기(Java Hello World!)"
 date: 2014-09-16 02:05:00
 image: '/assets/img/java/20140916/java_hello_world.jpg'
 description: Java Hello World!.
