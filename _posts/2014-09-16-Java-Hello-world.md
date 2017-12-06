@@ -37,13 +37,13 @@ Java를 실행할 때 콘솔(Console)에서 직접 입력하여 실행하거나,
 
 
 ## 1.1. 코드 작성
-
+```java
 class Hello {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
 }
-
+```
 ## 1.2. 코드 설명
 
 ![그림2. 20171206_002_Structure-of-Java_2](/assets/img/java/20140916/20171206_002_Structure-of-Java_2.jpg)
@@ -137,9 +137,9 @@ Edit Plus는 유료 편집기 프로그램이며, 30일 무료 평가판을 다�
 ![그림9. 20171206_009_java-Running-the-EditPlus_3](/assets/img/java/20140916/20171206_009_java-Running-the-EditPlus_3.jpg)
 
 프로그램 내용을 아래의 그림처럼 입력하여 봅니다.
-- 메뉴제목은 본인이 알아보기 쉽게 입력합니다. (저는 '컴파일'로 작성했습니다.) 
-- 명령(O)은 컴파일 명령어 javac 로 입력합니다. 
-- 인수(E)는 파일이름이어야 하므로 옆에 역삼각형 버튼을 눌러 '파일 이름'을 클릭합니다. 
+- 메뉴제목은 본인이 알아보기 쉽게 입력합니다. (저는 '컴파일'로 작성했습니다.)
+- 명령(O)은 컴파일 명령어 javac 로 입력합니다.
+- 인수(E)는 파일이름이어야 하므로 옆에 역삼각형 버튼을 눌러 '파일 이름'을 클릭합니다.
 - 디렉토리(I)는 현재 파일이 있는 '파일 디렉토리'를 클릭합니다.
 
 ![그림10. 20171206_010_java-Running-the-EditPlus_4](/assets/img/java/20140916/20171206_010_java-Running-the-EditPlus_4.jpg)
@@ -153,9 +153,9 @@ Edit Plus는 유료 편집기 프로그램이며, 30일 무료 평가판을 다�
 ![그림11. 20171206_011_java-Running-the-EditPlus_5](/assets/img/java/20140916/20171206_011_java-Running-the-EditPlus_5.jpg)
 
 프로그램 내용을 아래의 그림처럼 입력하여 봅니다.
-- 메뉴제목은 본인이 알아보기 쉽게 입력합니다. (저는 '실행'으로 작성했습니다.) 
-- 명령(O)은 실행 명령어 java 로 입력합니다. 
-- 인수(E)는 확장자가 없는 파일 이름이어야 하므로 옆에 역삼각형 버튼을 눌러 '확장자를 뺀 파일 이름'을 클릭합니다. 
+- 메뉴제목은 본인이 알아보기 쉽게 입력합니다. (저는 '실행'으로 작성했습니다.)
+- 명령(O)은 실행 명령어 java 로 입력합니다.
+- 인수(E)는 확장자가 없는 파일 이름이어야 하므로 옆에 역삼각형 버튼을 눌러 '확장자를 뺀 파일 이름'을 클릭합니다.
 - 디렉토리(I)는 현재 파일이 있는 '파일 디렉토리'를 클릭합니다.
 
 ![그림12. 20171206_012_java-Running-the-EditPlus_6](/assets/img/java/20140916/20171206_012_java-Running-the-EditPlus_6.jpg)
@@ -180,7 +180,7 @@ Edit Plus는 유료 편집기 프로그램이며, 30일 무료 평가판을 다�
 
 단축키 `[Ctrl + 2]`를 눌러 실행시켜 봅니다.
 
-![그림15. 20171206_015_java-Running-the-EditPlus_9](/assets/img/java/20140916/20171206_015_java-Running-the-EditPlus_9.jpg)  
+![그림15. 20171206_015_java-Running-the-EditPlus_9](/assets/img/java/20140916/20171206_015_java-Running-the-EditPlus_9.jpg)
 
 콘솔 윈도우에 Hello World! 메시지를 확인할 수 있습니다.
 
