@@ -18,7 +18,7 @@ introduction: 자바(Java)에서 사용하는 논리형 변수 boolean에 대해
 
 변수의 초기화 방법은 아래와 같이 입력합니다.
 
-```
+```java
 boolean check = true;
 boolean check = false;
 ```
