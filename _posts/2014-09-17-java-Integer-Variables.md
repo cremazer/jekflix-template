@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JAVA - 정수형 변수 byte, short, int, long"
-date: 2014-09-17 00:46:00
+date: 2014-09-17 23:46:00
 image: '/assets/img/java/20140917/java_Integer_Variables.jpg'
 description: Java programming language.
 category: 'java'
