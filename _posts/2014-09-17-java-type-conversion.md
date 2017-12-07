@@ -88,7 +88,7 @@ public class CastingTest {
 		b = b + 10;
 
 		//b를 a에 대입
-		a = b; //
+		a = b;
 
 		System.out.println("a : " + a);
 		System.out.println("b : " + b);
