@@ -230,7 +230,9 @@ byte c = (byte)(a+b);
 비트연산자는 이진 비트연산을 수행합니다.
 
 `&` : 피연산자 양 쪽이 모두 1 이어야 1을 결과로 얻습니다.
+
 `|` : 피연산자 중 한 쪽의 값이 1이면, 1을 결과로 얻습니다.
+
 `^` : 피연산자의 값이 서로 다를 때 1을 결과로 얻습니다.
 
 ![그림10. 20171207_010_Bitwise-operator](/assets/img/java/20140919/20171207_010_Bitwise-operator.jpg)
@@ -241,7 +243,7 @@ byte c = (byte)(a+b);
 
 ![그림11. 20171207_011_Bitwise-operator-ex-1](/assets/img/java/20140919/20171207_011_Bitwise-operator-ex-1.jpg)
 
-**3|5 = 7**
+<b>3 | 5 = 7</b>
 
 ![그림12. 20171207_012_Bitwise-operator-ex-2](/assets/img/java/20140919/20171207_012_Bitwise-operator-ex-2.jpg)
 
