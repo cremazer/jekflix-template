@@ -19,7 +19,7 @@ introduction: 자바(Java)에서 사용하는 논리형 변수 boolean에 대해
 변수의 초기화 방법은 아래와 같이 입력합니다.
 
 > boolean check = true;
-  boolean check = false;
+> boolean check = false;
 
 값은 대문자가 아닌 소문자만 줄 수 있으며, 대문자로 설정하면 에러가 발생합니다.
 
