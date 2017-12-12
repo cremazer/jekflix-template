@@ -303,8 +303,6 @@ public class AdjustableArray {
 
 모든 for문의 반복이 종료되면, 점수를 출력하는 for문을 통해 아래와 같은 결과를 확인할 수 있습니다.
 
-<결과>
-
 ![그림7. 20171212_007_java-A-variable-array](/assets/img/java/20140920/20171212_007_java-A-variable-array.jpg)
 
 
