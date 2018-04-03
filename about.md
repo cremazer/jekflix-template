@@ -32,7 +32,7 @@ for Software Developer (Web)
 
 # Work Experience
 
-- Rich & Co.
+- [Rich & Co.](http://richnco.co.kr/)
   - Feb.2018 – Present
     - Manager
     - Developed a rights management system that works with internal systems of the company.
@@ -63,7 +63,7 @@ for Software Developer (Web)
     - Assistant Manager
     - Develop web application to manage weather system in SK Planet.
 
-- Trionsoft Inc.
+- [Trionsoft Inc.](http://www.trionsoft.co.kr/main.asp)
   - Feb.2013 – Jun.2013
     - Seoul, KOREA
     - Assistant Manager
@@ -82,7 +82,7 @@ for Software Developer (Web)
     - Assistant Manager
     - Java-based business process implementation of web applications.
 
-- DIREA Co., Ltd
+- [DIREA Co., Ltd](http://www.direa.co.kr/direa_new/eng/)
   - Jun.2009 – May.2012
     - Seoul, KOREA
     - Staff
