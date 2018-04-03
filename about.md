@@ -32,46 +32,61 @@ for Software Developer (Web)
 
 # Work Experience
 
-- Manager(Freelancer)
-  - Feb.2015 – Present
-  - DONGBANG      Seoul, KOREA 
-  - Develop web application for listening to manage the recorded files that  were consulted by Call Center.
-  - **Work Experience continued.**
+- Rich & Co.
+  - Feb.2018 – Present
+    - Manager
+    - Developed a rights management system that works with internal systems of the company.
+    - **Work Experience continued.**
 
-- Manager(Freelancer)
+- Freelancer
+  - Feb.2015 – Jan.2018
+    - DONGBANG
+    - Seoul, KOREA
+    - Manager
+    - Develop web application for listening to manage the recorded files that  were consulted by Call Center.
+
   - Aug.2014 – Dec.2014
-  - CITUS      Seoul, KOREA 
-  - Re-built web application to manage agricultural genetic information in National Institute of Agricultural Sciences.
+    - CITUS
+    - Seoul, KOREA
+    - Manager
+    - Re-built web application to manage agricultural genetic information in National Institute of Agricultural Sciences.
 
-- Assistant Manager(Freelancer)
   - Apr.2014 – Aug.2014
-  - NBREDS      Seoul, KOREA 
-  - Develop authentication system to target the customers in SK Telocom.
+    - NBREDS
+    - Seoul, KOREA
+    - Assistant Manager
+    - Develop authentication system to target the customers in SK Telocom.
 
-- Assistant Manager(Freelancer)
   - Jul.2013 – Mar.2014
-  - STAM      Seoul, KOREA 
-  - Develop web application to manage weather system in SK Planet.
+    - STAM
+    - Seoul, KOREA
+    - Assistant Manager
+    - Develop web application to manage weather system in SK Planet.
 
-- Assistant Manager 
+- Trionsoft Inc.
   - Feb.2013 – Jun.2013
-  - Trionsoft      Seoul, KOREA
-  - Maintenance of existing systems and develop new systems. Implementation of the login process using the certificate.
+    - Seoul, KOREA
+    - Assistant Manager
+    - Maintenance of existing systems and develop new systems. Implementation of the login process using the certificate.
 
-- Assistant Manager(Freelancer)
+- Freelancer
   - Oct.2012 – Dec.2012
-  - Oniontech      Gyeonggi-do, KOREA
-  - Modify existing Web applications, and implementation of new business processes. Implementation of SMS Message segmentation process.
+    - Oniontech
+    - Gyeonggi-do, KOREA
+    - Assistant Manager
+    - Modify existing Web applications, and implementation of new business processes. Implementation of SMS Message segmentation process.
 
-- Assistant Manager(Freelancer)
   - Jun.2012 – Oct.2012
-  - Trionsoft      Seoul, KOREA
-  - Java-based business process implementation of web applications.
+    - Trionsoft
+    - Seoul, KOREA
+    - Assistant Manager
+    - Java-based business process implementation of web applications.
 
-- Staff 
+- DIREA Co., Ltd
   - Jun.2009 – May.2012
-  - DIREA      Seoul, KOREA
-  - Development web application for FEP monitoring system. Development window java application to create an electronic document interface used by MCI.
+    - Seoul, KOREA
+    - Staff
+    - Development web application for FEP monitoring system. Development window java application to create an electronic document interface used by MCI.
 
 ### Software/Systems Skills
 
