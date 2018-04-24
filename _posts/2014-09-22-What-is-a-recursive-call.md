@@ -22,15 +22,15 @@ Java에서 메서드를 사용하다보면 메서드 내에서 자신의 메서�
 - 이해하기 쉽고 간결한 코드를 작성할 수 있음
 - [재귀함수](https://ko.wikipedia.org/wiki/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)의 형태로 많이 사용됨.
 
-
-▶ 재귀호출의 예
+<br>
+<b>▶ 재귀호출의 예</b>
 
 - 팩토리얼(!), 제곱, 트리운행, 폴더목록표시 등등
 
   재귀호출에서 가장 많은 예제로 사용되는 [팩토리얼(Factorial)](https://ko.wikipedia.org/wiki/%EA%B3%84%EC%8A%B9)을 구현하여 살펴보겠습니다.
 
-
-▶ 팩토리얼의 정규식
+<br>
+<b>▶ 팩토리얼의 정규식</b>
 
 ```
 f(n) = n * f(n-1)
@@ -56,6 +56,7 @@ public long factorial(int n) {
 }
 ```
 
+<br>
 위의 코드에서 중요한 로직은
 ```
 n = 1 이면,
@@ -64,39 +65,43 @@ n = 1 이 아니면,
 	n * factorial(n-1) 입니다.
 ```
 
+<br>
 - 순서1
 
-	n = 5 일 때, factorial(5)가 호출 되고,
+	n = 5 일 때, `factorial(5)`가 호출 되고,
 
 	5 = 1 이 아니므로 result = 5 * factorial(5-1); 가 됩니다. ( 5-1 = 4 )
 
-	result = 5 * factorial(4); 로 정리됩니다.
+	result = 5 * `factorial(4)`; 로 정리됩니다.
 
-
+<br>
 - 순서2
 
 	factorial(4)가 호출 되면,
 
 	4 = 1 이 아니므로 result = 5 * 4 * factorial(4-1); 가 됩니다. (4-1 = 3 )
 
-	result = 5 * 4 * factorial(3); 로 정리됩니다.
+	result = 5 * 4 * `factorial(3)`; 로 정리됩니다.
 
+<br>
 - 순서3
 
 	factorial(3)이 호출 되면,
 
 	3 = 1 이 아니므로 result = 5 * 4 * 3 * factorial(3-1); 가 됩니다. (3-1 = 2 )
 
-	result = 5 * 4 * 3 * factorial(2); 로 정리됩니다.
+	result = 5 * 4 * 3 * `factorial(2)`; 로 정리됩니다.
 
+<br>
 - 순서4
 
 	factorial(2)가 호출 되면,
 
 	2 = 1 이 아니므로 result = 5 * 4 * 3 * 2 * factorial(2-1); 가 됩니다. (2-1 = 1 )
 
-	result = 5 * 4 * 3 * 2 * factorial(1); 로 정리됩니다.
+	result = 5 * 4 * 3 * 2 * `factorial(1)`; 로 정리됩니다.
 
+<br>
 - 순서5
 
 	마지막으로 factorial(1) 이 호출 되고,
@@ -108,9 +113,11 @@ n = 1 이 아니면,
 
 그래서 factorial(5)가 호출되면, result = 5 * 4 * 3 * 2 * 1 이 리턴되는 것입니다.
 
+<br>
 위의 내용을 예제코드와 그림으로 살펴보겠습니다.
 
-▶ 예제코드
+<br>
+<b>▶ 예제코드</b>
 
 Factorial.java
 ```java
@@ -131,10 +138,11 @@ public class Factorial {
 		}
 
 		return result;
-    }
+	}
 }
 ```
 
+<br>
 FactorialTest.java
 ```java
 /**
@@ -148,21 +156,22 @@ public class FactorialTest {
 		Factorial f = new Factorial();
 		int n = 5;
 		System.out.println(n + "! = " + f.factorial(n));
-    }
+	}
 }
 ```
 
-▶ 결과
+<br>
+<b>▶ 결과</b>
 
 5! = 120
 
-
+<br>
 펙토리얼을 테스트 하기 위해 main() 메서드에서 Factorial객체 f를 생성하여 f를 이용해 facltorial(int n)에 접근해 봤습니다.
 
 이 과정을 그림으로 살펴보면 아래와 같음을 알 수 있습니다.
 
-
-▶ 팩토리얼의 호출 원리
+<br>
+<b>▶ 팩토리얼의 호출 원리</b>
 
 ![그림1. 20180425_001_What-is-a-recursive-call](/assets/img/java/20140922/20180425_001_What-is-a-recursive-call.jpg)
 
