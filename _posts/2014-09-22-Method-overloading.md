@@ -69,23 +69,11 @@ long add(double c, double d){
 
 ```java
 /**
-
  * @file name : OverloadingTest.java
-
  * @date : 2013. 8. 15.
-
  * @discription : 오버로딩 테스트 클래스
-
- * 
-
- */
-
-/**
-
  * @author Cremazer(cremazer@gmail.com)
-
  */
-
 public class OverloadingTest {
 
 	int a = 1;
