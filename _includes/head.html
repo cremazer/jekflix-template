@@ -6,6 +6,16 @@
     <title>{% if page.title %}{{ page.title }} | {{ site.username }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-40F0JYP2VM"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-40F0JYP2VM');
+    </script>
+    
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{site.twitter_username}}">
