@@ -9,18 +9,19 @@ layout: compress
         {% include svg-icons.html %}
         {% include header.html %}
             <section class="content">
-                {{ content }}
+                <!-- google adsense -->
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <ins class="adsbygoogle"
+                     data-ad-client="ca-pub-7784001917683726"
+                     data-ad-slot-"2380354290"
+                     data-ad-format="auto">
+                </ins>
+                <script>
+                     (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                
+                {{ content }}                
             </section>
-    
-        <!-- google adsense -->
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({
-                  google_ad_client: "ca-pub-7784001917683726",
-                  enable_page_level_ads: true
-             });
-        </script>
-        
         {% include footer.html %}
     </body>
 </html>
