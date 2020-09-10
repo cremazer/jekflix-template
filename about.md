@@ -32,11 +32,23 @@ for Software Developer (Web)
 
 # Work Experience
 
-- [Rich & Co.](http://richnco.co.kr/)
-  - Feb.2018 – Present
-    - Manager
-    - Developed a rights management system that works with internal systems of the company.
+- [The Closet Company Corp.](https://closetshare.com/)
+  - Mar.2020 – Present
+    - Participated in the development of the wardrobe platform system as part of the development team.
+    - Participated in the development of new features and analyzed the system.
+    - Developed a pricing policy management function and applied it to the system.
+    - Its main tasks are product management, pricing policy management, product property management, and category management.
+    - Work environment  : JIRA, Notion, Slack
+    - Development environment : IntelliJ IDE, AWS, REDIS, etc...
+    - Development skills : Java/Jsp, Spring Framework, REST API, MySQL, node.js, express.js, etc...
     - **Work Experience continued.**
+
+- [Rich & Co.](http://richnco.co.kr/)
+  - Feb.2018 – Mar.2020
+    - Operation and development as Manager
+    - Direct car insurance consulting system
+    - DB distribution management system
+    - Rights management system (based on Anyframe)
 
 - Freelancer
   - Feb.2015 – Jan.2018
