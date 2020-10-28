@@ -1,16 +1,96 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for page in site.pages %}
-        <url>
-            <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
-        </url>
-    {% endfor %}
-    {% for post in site.posts %}
-        <url>
-            <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
-        </url>
-  {% endfor %}
+	<url>
+		<loc>https://cremazer.github.io/404.html</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/about/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/contact/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/feed.xml</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/categoria/java/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/categoria/life/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/contact/message-sent/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/search.json</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/sitemap.xml</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/tags/index.html</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/assets/css/style.css</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/Reference-this/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/Constructor/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/Method-overloading/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/What-is-a-recursive-call/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-Variable-and-Method/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-Class-and-Object/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-Features-of-object-oriented-language/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-Array/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-Loop/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-Conditional-statement/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-Types-of-Operators/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-type-conversion/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-Real-Variables/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-Integer-Variables/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/java-Logical-Variables/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/Java-Character-Variables/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/Java-Hello-world/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/Eclipse-installation-and-Hello-World/</loc>
+	</url>
+	<url>
+		<loc>https://cremazer.github.io/Java-installation-and-configuration/</loc>
+	</url>
 </urlset>
