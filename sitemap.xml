@@ -1,132 +1,16 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://cremazer.github.io/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/about/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/contact/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/categoria/java/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/Reference-this/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/tags/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/Constructor/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/Method-overloading/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/What-is-a-recursive-call/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-Variable-and-Method/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-Class-and-Object/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-Features-of-object-oriented-language/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-Array/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-Loop/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-Conditional-statement/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-Types-of-Operators/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-type-conversion/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-Real-Variables/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-Integer-Variables/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/java-Logical-Variables/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/Java-Character-Variables/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/Java-Hello-world/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/Eclipse-installation-and-Hello-World/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cremazer.github.io/Java-installation-and-configuration/</loc>
-  <lastmod>2020-10-28T23:11:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for page in site.pages %}
+        <url>
+            <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
+        </url>
+    {% endfor %}
+    {% for post in site.posts %}
+        <url>
+            <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
+        </url>
+  {% endfor %}
 </urlset>
