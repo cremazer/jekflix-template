@@ -13,7 +13,7 @@ I'm a constantly challenging developer.
 
 # Objective
 
-Software Developer (Web)
+Back-end developer (Back Office, Admin, etc..)
 
 # Key Competencies
 for Software Developer (Web)
@@ -32,16 +32,49 @@ for Software Developer (Web)
 
 # Work Experience
 
-- [The Closet Company Corp.](https://closetshare.com/)
-  - Mar.2020 – Present
-    - Participated in the development of the wardrobe platform system as part of the development team.
-    - Participated in the development of new features and analyzed the system.
-    - Developed a pricing policy management function and applied it to the system.
-    - Its main tasks are product management, pricing policy management, product property management, and category management.
-    - Work environment  : JIRA, Notion, Slack
-    - Development environment : IntelliJ IDE, AWS, REDIS, etc...
-    - Development skills : Java/Jsp, Spring Framework, REST API, MySQL, node.js, express.js, etc...
+- [The Closet Company Co., Ltd.](https://closetshare.com/)
+  - Mar.2020 –Present   
     - **Work Experience continued.**
+  
+  - Rebuilding the platform to expand product categories (in progress)
+    - Dec.2020 – Jan.2021
+    - DB design for lifestyle item management.
+    - Presenting direction for planning product category classification.
+    - Design and develop new processes for managing shares, sales and subscriptions.
+    - Development and application of new modules to reflect dynamic pricing policies.
+    - Front UI development and API development (category, item list, item details, etc.)
+    
+  - Contributing to increased sales by developing used sales, purchase, and donation item management processes on the platform
+    - Oct.2020 – Nov.2020
+    - Sharing, product and inventory DB analysis and scalable DB redesign.
+    - Solved the inconvenience of the logistics team by analyzing the entire process of item sharing management and improving the program.
+    - Development of a new program for managing purchases and donations.
+    - Process analysis and development for product and inventory management.
+    - Front UI development and REST API development.
+    - Improved marketing efficiency by automating category setting when registering products.
+    
+  - Product detail improvement project
+    - Jul.2020 – Sep.2020
+    - Improved loading speed and convenience by designing and developing REST API required for front UI improvement.
+    - Documented the API program and shared it with the development team.(using Notion)
+    
+  - Rebuilding the menswear management system
+    - May.2020 – Jul.2020
+    - Participated in the analysis and extension design of the sharing process.
+    - Analyzed and improved back office functions related to logistics and marketing team work.
+    - Developed and applied a price policy function for linking with the Second system.
+    
+  - Contribute to increase sales by developing dynamic pricing policies on the platform
+    - Mar.2020 – May.2020
+    - DB design and development to dynamically apply product rental and resale pricing policies.
+    - Full price migration for all registered products.
+    - Automated dynamic price linking from product registration to post processing.
+    - For the service operations team, I developed the ability to change prices and hand over tasks periodically in the back office system.
+    
+    - Main tasks : product management, pricing policy management, inventory management, and category management, solve operational issues, offline work support.
+    - Work environment  : Slack, Notion
+    - Development environment : IntelliJ IDE, AWS (EC2, RDS, Elasticsearch, etc..), REDIS, etc…
+    - Development skills : Java, Jsp, javascript, jQuery, Spring Framework, Spring Boot, REST API, MySQL, node.js, express.js    
 
 - [Rich & Co.](http://richnco.co.kr/)
   - Feb.2018 – Mar.2020
@@ -52,7 +85,7 @@ for Software Developer (Web)
 
 - Freelancer
   - Feb.2015 – Jan.2018
-    - DONGBANG
+    - Dongbang Information & Communication Co., Ltd.
     - Seoul, KOREA
     - Manager
     - Develop web application for listening to manage the recorded files that  were consulted by Call Center.
