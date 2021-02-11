@@ -9,7 +9,7 @@ tags:
 - java
 - tutorial
 twitter_text: JAVA - 참조변수 this
-introduction: 자바(Java)에서 
+introduction: 자바(Java) 클래스에서 자기 자신을 가리키는 참조변수 this에 대해서 배우게 됩니다. 
 ---
 
 Java에서 this는 [참조변수](http://terms.naver.com/entry.nhn?docId=835113&cid=50376&categoryId=50376)로 인스턴스 자신을 가리킵니다. 참조변수를 통해 인스턴스의 멤버변수에 접근할 수 있는 것처럼, this를 통해서 인스턴스 변수에 접근할 수 있는 것입니다.
