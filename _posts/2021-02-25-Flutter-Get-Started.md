@@ -86,7 +86,7 @@ Windows 콘솔창에서 Flutter 명령을 실행하려면 `PATH`를 추가해야
 
 ![그림5.get-started-install-Environment-variable-path](/assets/img/flutter/20210225/05-get-started-install-Environment-variable-path.png)
 
-![그림6.get-started-install-Environment-variable-path-new](/assets/img/flutter/20210225/06-get-started-install-Environment-variable-path-new.png
+![그림6.get-started-install-Environment-variable-path-new](/assets/img/flutter/20210225/06-get-started-install-Environment-variable-path-new.png)
 
 
 ## Flutter doctor 실행
