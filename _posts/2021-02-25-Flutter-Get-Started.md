@@ -17,7 +17,7 @@ introduction: 윈도우 환경에서 Flutter를 시작하기 위한 설치과정
 
 > 공식 사이트 > 시작하다 > 1.설치
 
-이 문서는 Fluter [공식 사이트](https://flutter.dev/docs/get-started/install)를 참고하여 `Windows OS`에서 Flutter를 설치하고 실행하는 내용을 정리했습니다.
+이 문서는 Flutter [공식 사이트](https://flutter.dev/docs/get-started/install)를 참고하여 `Windows OS`에서 Flutter를 설치하고 실행하는 내용을 정리했습니다.
 
 `Mac OS`에서 Flutter를 설치하려면 아래의 문서를 참고하세요.
 
@@ -95,8 +95,7 @@ PATH 설정을 완료했으면, 이제 콘솔창(cmd)을 열어서 위에서 flu
 
 이 명령어를 실행하는 이유는 flutter 설정에서 플랫폼에 필요한 의존성 데이터가 있는지 확인하여 해결하기 위함입니다.
 
-[이미지] 07-get-started-flutter-doctor.png
-![그림7.](/assets/img/flutter/20210225/)
+![그림7.get-started-flutter-doctor](/assets/img/flutter/20210225/07-get-started-flutter-doctor.png)
 
 저의 실행결과는 초록색 체크 표시 1개와 느낌표 4개가 발생했습니다.
 
