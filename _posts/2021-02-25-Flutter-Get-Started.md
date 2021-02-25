@@ -71,7 +71,8 @@ GitHub의 [Flutter Repository](https://github.com/flutter/flutter)에서 소스�
 > ※ 설치 주의사항
 > C:\Program Files\ 에서는 설치하지 말라고 합니다.
 > 다운로드한 SDK zip 파일은 다른 위치에 압축을 풀어줍니다.
-> 예 : C:\src\flutter 또는 g:\src\flutter
+
+`예 : C:\src\flutter 또는 g:\src\flutter`
 
 
 ## PATH 설정 추가
@@ -119,7 +120,9 @@ report에 의하면 android licenses 문제를 해결하기 위해 `flutter doct
 
 ### Android Studio Plugin 설치
 
-이 문제를 해결하려면 먼저 Android Studio가 설치되어 있어야 합니다. 아직 설치를 하지 않았다면, 아래의 링크에서 다운로드하여 설치를 해야합니다.
+이 문제를 해결하려면 먼저 Android Studio가 설치되어 있어야 합니다. 
+
+> 아직 설치를 하지 않았다면, 아래의 링크에서 다운로드하여 설치하세요.
 
 [https://developer.android.com/studio](https://developer.android.com/studio)
 
@@ -135,7 +138,7 @@ Android Studio 설치 후에 실행한 후에 flutter plugin을 설치합니다.
 
 ### VSCode Extensions 설치
 
-> VSCode가 아직 설치하지 않았다면, 아래의 링크에서 다운로드 하세요.
+> VSCode가 아직 설치하지 않았다면, 아래의 링크에서 다운로드하여 설치하세요.
 
 [VSCode 다운로드 사이트](https://code.visualstudio.com/download)
 
@@ -158,9 +161,10 @@ Mac OS와 Windows OS의 해결방법이 있으므로 참고하시면 됩니다.
 Windows OS에서는 콘솔창(cmd)에서 아래의 명령어를 차례대로 실행하면 됩니다.
 
 > flutter channel dev
-> flutter upgrade
 
 ![그림16.get-started-flutter-channel-dev](/assets/img/flutter/20210225/16-get-started-flutter-channel-dev.png)
+
+> flutter upgrade
 
 ![그림17.get-started-flutter-upgrade](/assets/img/flutter/20210225/17-get-started-flutter-upgrade.png)
 
