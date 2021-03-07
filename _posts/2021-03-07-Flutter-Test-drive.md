@@ -2,7 +2,7 @@
 layout: post
 title: "Flutter - Test first app"
 date: 2021-03-07 22:43:00
-image: '/assets/img/flutter/20210225/00-get-started.jpg'
+image: '/assets/img/flutter/20210307/00-Test-drive.jpg'
 description: Test for Flutter first app on Windows.
 category: 'flutter'
 tags:
