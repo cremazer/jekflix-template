@@ -177,7 +177,7 @@ Windows OS에서는 콘솔창(cmd)에서 아래의 명령어를 차례대로 실
 
 ![그림18.get-started-flutter-emulator](/assets/img/flutter/20210225/18-get-started-flutter-emulator.png)
 
-`flutter emulators --launch Pixcel_2_API_30`을 실행하면 안드로이드 에뮬레이터가 실행되는 것을 확인할 수 있습니다.
+`flutter emulators --launch Pixel_2_API_30`을 실행하면 안드로이드 에뮬레이터가 실행되는 것을 확인할 수 있습니다.
 
 ![그림19.get-started-flutter-emulator-excute](/assets/img/flutter/20210225/19-get-started-flutter-emulator-excute.png)
 
