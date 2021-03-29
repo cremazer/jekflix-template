@@ -11,7 +11,7 @@
                 <p itemprop="post-info" class="post-info">
                     {% if page.date %}
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
-                        <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">
+                        <time itemprop="datePublished" datetime="{{ page.date | date: “%F” }}" class="date">
                             {% include date.html date=page.date %}
                         </time>
                     {% endif %}
