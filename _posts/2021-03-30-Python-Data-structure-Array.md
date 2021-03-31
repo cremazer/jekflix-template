@@ -7,7 +7,7 @@ description: Practice writing arrays in Python.
 category: 'python'
 tags:
 - python
-- algorithm
+- data structure
 - array
 twitter_text: Python - Practice writing arrays in Python.
 introduction: 파일썬으로 배열 자료구조를 학습합니다.
