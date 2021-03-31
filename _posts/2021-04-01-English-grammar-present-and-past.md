@@ -2,7 +2,7 @@
 layout: post
 title: "English grammar - Present and past"
 date: 2021-04-01 05:50:34
-image: '/assets/img/english/20210401/00-English-grammar-present-and-past.jpg'
+image: '/assets/img/english/20210401/00-present-and-past.jpg'
 description: Learn about the present and past in English grammar.
 category: 'english'
 tags:
