@@ -30,7 +30,7 @@ introduction: 파일썬으로 스택(Stack) 자료구조를 학습합니다.
 
 ### 시각화로 이해하기
 
-- - [VISUALGO.net](https://visualgo.net/ko/list)
+- [VISUALGO.net](https://visualgo.net/ko/list)
 
 ![그림1.](/assets/img/python/20210408/01-visualgo-stack.png)
 
