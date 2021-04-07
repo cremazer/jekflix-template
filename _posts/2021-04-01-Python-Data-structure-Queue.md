@@ -60,11 +60,12 @@ print('size=', data_queue.qsize())
 print(data_queue.get())
 ```
 
-> output :
-> size= 2
-> Lucky
-> size= 1
-> 20210401
+- output
+
+    size= 2
+    Lucky
+    size= 1
+    20210401
 
 ---
 
@@ -102,11 +103,12 @@ print('size=', lifo_queue.qsize())
 print(lifo_queue.get())
 ```
 
-> output :
-> size= 2
-> 20210401
-> size= 1
-> Joy
+- output
+
+    size= 2
+    20210401
+    size= 1
+    Joy
 
 ### PriorityQueue (우선순위 큐)
 
@@ -133,9 +135,10 @@ print('size=', size)
 print(priority_queue.get())
 ```
 
-> output :
-> size= 3
-> (5, 'House')
+- output
+
+    size= 3
+    (5, 'House')
 
 - 우선순위 큐에서는 우선순위로 설정한 숫자가 낮은 데이터가 가장 먼저 나온다.
 
@@ -174,9 +177,10 @@ print(dequeue())
 print(dequeue())
 ```
 
-> output :
-> list size= 10
-> 0
-> 1
-> 2
+- output
+
+    list size= 10
+    0
+    1
+    2
 

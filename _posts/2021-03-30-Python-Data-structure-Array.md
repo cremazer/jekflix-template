@@ -50,8 +50,9 @@ data1 = [1,2,3,4,5]
 print(data1)
 ```
 
-> output :
-> [1, 2, 3, 4, 5]
+- output
+
+    [1, 2, 3, 4, 5]
 
 ```python
 # 2차원 배열 (리스트로 구현)
@@ -64,13 +65,14 @@ print(data2[0][2])
 print(data2[1][0])
 ```
 
-> output :
-> [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-> [1, 2, 3]
-> 1
-> 2
-> 3
-> 4
+- output
+
+    [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+    [1, 2, 3]
+    1
+    2
+    3
+    4
 
 ```python
 # data2에서 9,8,7 순서로 출력
@@ -80,11 +82,12 @@ print(data2[2][0])
 print(data2[2][2], data2[2][1], data2[2][0])
 ```
 
-> output :
-> 9
-> 8
-> 7
-> 9 8 7
+- output
+
+    9
+    8
+    7
+    9 8 7
 
 ```python
 # dataset에서 문자 'M'이 포함된 문자열 개수 출력
@@ -111,6 +114,7 @@ for str in dataset:
 print(m_count)
 ```
 
-> output :
-> 3
+- output
+
+    3
 
